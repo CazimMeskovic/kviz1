@@ -1,0 +1,94 @@
+
+
+  html,body{
+    
+  background-image: url('img/znanje.jpg');
+}
+.rezultati{
+  background-color: #782faf;
+  color: bisque;
+    margin: 2%;
+    padding: 4%;
+    
+}
+.rezultati p{
+
+font-size: xxx-large;
+}
+ #brpit {
+  margin-right: 20px;
+  height: 30px; 
+  font-size: 16px;
+  color: #2816bd;
+  background-color: rgba(43, 201, 201, 0.801);
+    margin-top: 10%;
+    border-radius: 7px; 
+}
+#ucpit {
+  margin-right: 20px;
+  height: 35px; 
+  font-size: 16px; 
+  color:#1b20ccf6;
+  background-color: rgba(43, 201, 201, 0.801);
+  margin-top: 10%;
+  border-radius: 10px; 
+  font-size: medium;
+ 
+} 
+.rezultati button{
+background-color: #8f8;
+padding: 15px;
+    font-size: medium;
+    border-radius: 10px;
+
+  }
+  .vrh{
+    display: flex;
+    justify-content: center;
+  }
+ .naslov{
+  color: #f88;
+  margin-top: 9%; 
+  font-size: xxx-large;
+
+} 
+  
+  .mjesto{
+    max-width: 75%;
+    margin: 0 auto;
+  
+    font-size: x-large;
+    height: 300px;
+   
+    background-color: #daa52099;
+    border-radius: 15px;
+  }
+  .correct{
+    color: #f88;
+    background-color: #8f8;
+  }
+  .incorrect{
+    background-color: brown;
+  }
+  
+  .question-list {
+    list-style-type: none;
+    padding: 0;
+    
+  }
+
+  .pitanje{
+    color:  #2816bd;
+    padding: 7%;
+  }
+  
+  .pitanje button{
+    background-color: aqua;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    color: #782faf;
+    font-size: medium;
+  }
+  
+ 
